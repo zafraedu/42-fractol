@@ -110,7 +110,7 @@ Para ej fractal de **_Julia_** podemos ejecutar dos parámetros más que serían
 <table>
   <tr>
     <th>Nombre del programa</th>
-    <td><i>fracol</i></td>
+    <td><i>fractol</i></td>
   </tr>
   <tr>
     <th>Archivos a entregar</th>
